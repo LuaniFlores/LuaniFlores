@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Luani Flores
 
-**`Desenvolvedora FullStack`**
+**`Backend Developer`**
 
-Me chamo Luani Flores, tenho 19 anos e sou natural de Mogi Guaçu, São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Ciências da Computação na FMPFM. Sou apaixonada por tecnologia e estou em constante aprendizado nas áreas de back-end, front-end e boas práticas de código. Neste espaço, compartilho meus projetos, estudos e minha evolução na área de TI.
+Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí um curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Ciências da Computação na FMPFM. Sou apaixonada por tecnologia e estou em constante aprendizado nas áreas de back-end e boas práticas de código. Neste espaço, compartilho meus projetos, estudos e minha evolução na área de TI.
 
 ----
 ### 🤖 Linguagens e Tecnologias
