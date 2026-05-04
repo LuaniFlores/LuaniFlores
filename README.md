@@ -52,6 +52,15 @@ Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí 
 
 <img 
     align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/2415/PNG/512/java_original_logo_icon_146458.png](https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg"
+/>
+
+<img 
+    align="left" 
     alt="AWS" 
     title="AWS"
     width="30px" 
