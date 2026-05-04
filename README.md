@@ -2,9 +2,10 @@
 
 **`Backend Developer`**
 
-Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí um curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Ciências da Computação na FMPFM. Sou apaixonada por tecnologia e estou em constante aprendizado nas áreas de back-end e boas práticas de código. Neste espaço, compartilho meus projetos, estudos e minha evolução na área de TI.
+Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí um curso técnico em Desenvolvimento de Sistemas e atualmente curso Ciências da Computação na FMPFM. Sou apaixonada por tecnologia e estou em constante aprendizado nas áreas de back-end, automação e boas práticas de código. Neste espaço, compartilho meus projetos, estudos e minha evolução na área de TI.
 
-----
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -13,23 +14,25 @@ Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 
 <img 
@@ -38,7 +41,7 @@ Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
 />
 
 <img 
@@ -47,7 +50,7 @@ Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/2415/PNG/512/java_original_logo_icon_146458.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 />
 
 <img 
@@ -56,7 +59,7 @@ Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí 
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/2415/PNG/512/java_original_logo_icon_146458.png](https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFPDOQP1s-zcuRaFcsBWSGSaLwfYhnPZB17Q&s"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
 />
 
 <img 
@@ -65,7 +68,7 @@ Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí 
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
 
 <img 
@@ -74,9 +77,8 @@ Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí 
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   
 />
-
 
 <img 
     align="left" 
@@ -84,7 +86,7 @@ Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí 
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
 />
 
 <img 
@@ -93,9 +95,8 @@ Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
-
 
 <br/>
 <br/>
