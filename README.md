@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Me chamo Luani Flores, tenho 19 anos e sou de Mogi Guaçu, São Paulo. Concluí um curso técnico em Desenvolvimento de Sistemas e atualmente curso Ciências da Computação na FMPFM. Sou apaixonada por tecnologia e estou em constante aprendizado nas áreas de back-end, automação e boas práticas de código. Neste espaço, compartilho meus projetos, estudos e minha evolução na área de TI.
+Me chamo Luani Flores, tenho 20 anos e sou de Mogi Guaçu, São Paulo. Concluí um curso técnico em Desenvolvimento de Sistemas e atualmente curso Ciências da Computação na FMPFM. Sou apaixonada por tecnologia e estou em constante aprendizado nas áreas de back-end, automação e boas práticas de código. Neste espaço, compartilho meus projetos, estudos e minha evolução na área de TI.
 
 ---
 
